@@ -1,0 +1,4 @@
+deavtivate
+python3 -m http.server
+
+http://192.168.45.222:8000/
